@@ -1,11 +1,11 @@
-#Metric Helper
+#Metric System COnverter
 import tkinter
 from tkinter import ttk, END
 
 #Define window
 root = tkinter.Tk()
-root.title('Metric Helper')
-root.iconbitmap('ruler.ico')
+root.title('Metric Converter')
+root.iconbitmap('resources/icons/ruler.ico')
 root.resizable(0,0)
 
 #Define fonts and colors
